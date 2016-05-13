@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Adam and Kelli Moser]]></title>
         <description><![CDATA[Adam and Kelli Moser]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mosersinministry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 00:16:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 01:00:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mosersinministry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Adam and Kelli met at a prayer meeting in 2009 in Illinois. They got to know each other over a few years, and their friendship developed into a relationship. They dated long distance for a while, and...</p></article>]]></description>
+            <link>http://www.mosersinministry.com/about-us.html</link>
+            <guid isPermaLink="false">7357ab62-332e-448e-aa69-b27f51d736e6</guid>
+            <pubDate>Fri, 13 May 2016 01:00:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mosers in Ministry]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/003c276f-de9c-465e-b427-cd9841a1e701.jpg">]]></description>
