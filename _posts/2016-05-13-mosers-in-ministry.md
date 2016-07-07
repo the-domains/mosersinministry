@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-07T23:06:10.704Z'
+datePublished: '2016-07-07T23:06:14.700Z'
 sourcePath: _posts/2016-05-13-mosers-in-ministry.md
 inFeed: true
 isBasedOnUrl: 'http://www.mosersinministry.com/'
@@ -18,7 +18,7 @@ keywords:
   - glad
 related: []
 author: []
-dateModified: '2016-07-07T23:06:10.361Z'
+dateModified: '2016-07-07T23:06:14.401Z'
 title: Adam & Kelli Moser | Joyfully Serving Jesus
 app_links: []
 publisher:
@@ -29,7 +29,7 @@ publisher:
 description: Disciple | Restore | Equip | Transform
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
