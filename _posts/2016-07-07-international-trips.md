@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-07T23:07:03.975Z'
+datePublished: '2016-07-07T23:07:05.725Z'
 inFeed: true
 isBasedOnUrl: 'http://www.mosersinministry.com/kenya-trips.html'
 authors: []
@@ -17,7 +17,7 @@ keywords:
   - pastor
 related: []
 author: []
-dateModified: '2016-07-07T23:07:03.492Z'
+dateModified: '2016-07-07T23:07:05.084Z'
 title: International Trips
 app_links: []
 publisher:
@@ -75,7 +75,7 @@ description: >-
 inLanguage: en
 inNav: false
 sourcePath: _posts/2016-07-07-international-trips.md
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
